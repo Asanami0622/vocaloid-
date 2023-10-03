@@ -27,3 +27,10 @@
     width: 500px;
     
 }
+#daimei{
+    text-decoration: underline;
+;
+}
+#gyoukan{                        
+   display: 3px;
+}
