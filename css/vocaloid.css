@@ -60,3 +60,36 @@
     background-color: #ee6767;
     width: 700px;
 }
+#genjitu{
+    background-color: #dd2525;
+    padding: 30;
+}
+#kasi5{
+    background-color: #ff8a8a;
+    padding: 20px;
+    width: 500px;
+}
+#cold{
+    padding: 0.25em 0.5em;
+    color: #58a9f5;
+    background: transparent;
+    border-left: solid 5px #080d13;
+}
+#asa{
+    padding: 0.25em 0.5em;
+    color: #92171d;
+    background: transparent;
+    border-left: solid 5px #131c24;
+}
+#mourus{
+    padding: 0.25em 0.5em;
+    color: #ee0e0e;
+    background: transparent;
+    border-left: solid 5px #080d13;
+}
+#iya{
+    padding: 0.25em 0.5em;
+    color: #f80a0a;
+    background: transparent;
+    border-left: solid 5px #080d13;
+}
