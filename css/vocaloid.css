@@ -67,7 +67,7 @@
 #kasi5{
     background-color: #ff8a8a;
     padding: 20px;
-    width: 500px;
+    width: 560px;
 }
 #cold{
     padding: 0.25em 0.5em;
@@ -93,3 +93,26 @@
     background: transparent;
     border-left: solid 5px #080d13;
 }
+#tenraku{
+    background-color: #dd2525;
+    padding: 30; 
+}
+#genkaku{
+    padding: 0.25em 0.5em;
+    color: #792828;
+    background: transparent;
+    border-left: solid 5px #080d13;
+}
+.animated-element {
+    width: 500;
+    height: 500;
+    background-color: blue;
+    transition: all 1s ease; /* 1秒かけてすべてのプロパティを変更 */
+}
+
+.animated-element:hover {
+    background-color: red;
+    transform: scale(1.2); /* ホバー時に拡大 */
+}
+
+
